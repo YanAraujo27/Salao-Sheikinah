@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "salaoshekinah",
+    "slug": "salaoshekinah",
+    "scheme": "salaoshekinah",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
